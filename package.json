@@ -1,19 +1,18 @@
 {
   "name": "language-jasmin",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "http://jasmin.sourceforge.net language support.",
   "keywords": [
-      "java",
-      "jvm",
-      "assembly",
-      "jasmin",
-      "krakatau"
+    "java",
+    "jvm",
+    "assembly",
+    "jasmin",
+    "krakatau"
   ],
   "repository": "https://github.com/bsideup/atom-language-jasmin",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
